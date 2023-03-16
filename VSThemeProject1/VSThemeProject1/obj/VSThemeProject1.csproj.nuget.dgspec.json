@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\y1j2w\\Documents\\GitHub\\Cpp_YJW\\VSThemeProject1\\VSThemeProject1\\VSThemeProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\y1j2w\\Documents\\GitHub\\Cpp_YJW\\VSThemeProject1\\VSThemeProject1\\VSThemeProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\y1j2w\\Documents\\GitHub\\Cpp_YJW\\VSThemeProject1\\VSThemeProject1\\VSThemeProject1.csproj",
+        "projectName": "VSThemeProject1",
+        "projectPath": "C:\\Users\\y1j2w\\Documents\\GitHub\\Cpp_YJW\\VSThemeProject1\\VSThemeProject1\\VSThemeProject1.csproj",
+        "packagesPath": "C:\\Users\\y1j2w\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\y1j2w\\Documents\\GitHub\\Cpp_YJW\\VSThemeProject1\\VSThemeProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\y1j2w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

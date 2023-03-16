@@ -1,0 +1,36 @@
+﻿  main.c
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(21,18): warning C4101: 'example' :참조되지 않은 지역 변수입니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(72,15): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(116,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(124,19): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(138,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(131,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(154,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(150,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(151,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(174,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(190,18): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(191,18): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(185,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(206,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(199,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(224,18): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(218,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(232,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(240,18): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(247,3): warning C4033: 'GetNodeWithIndex'은(는) 값을 반환해야 합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(258,13): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(263,4): warning C4033: 'GetNodeWithIndex'은(는) 값을 반환해야 합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(250,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(276,3): warning C4033: 'GetNodeWithData'은(는) 값을 반환해야 합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(286,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(294,4): warning C4033: 'GetNodeWithData'은(는) 값을 반환해야 합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(279,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(316,12): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(325,20): warning C4133: '=': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(307,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(308,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(309,9): warning C4133: '초기화 중': 'SNode *'과(와) 'SNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(298): warning C4716: 'GetNodeWithData': 값을 반환해야 합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\main.c(269): warning C4716: 'GetNodeWithIndex': 값을 반환해야 합니다.
+  230315.vcxproj -> C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230315\x64\Debug\230315.exe
