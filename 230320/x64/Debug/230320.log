@@ -1,0 +1,6 @@
+﻿  230320.c
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230320\230320.c(90,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '_SNode *'입니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230320\230320.c(90,11): warning C4313: 'printf': 서식 문자열의 '%d'이(가) _SNode *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230320\230320.c(103,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '_SNode *'입니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230320\230320.c(103,11): warning C4313: 'printf': 서식 문자열의 '%d'이(가) _SNode *' 형식의 인수 2과(와) 충돌합니다.
+  230320.vcxproj -> C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230320\x64\Debug\230320.exe

@@ -1,0 +1,78 @@
+#include <stdio.h>
+#include <malloc.h>
+
+typedef struct _SNode
+{
+    int data;
+    struct _SNode* pLeft;
+    struct _SNode* pRight;
+} SNode;
+
+SNode* g_pHead = NULL;
+
+void BuildTree(int* _pArr, int _len);
+void AddNode(SNode* _pCompareNode, SNode* _pNewNode);
+void PrintAll();
+void PrintRecursive();
+
+//    Graph
+//    Hash-Table
+//    Binary-Tree
+void main()
+{
+    int arr[] = { 8, 5, 10, 2, 15, 31, 25, 19 };
+
+    BuildTree(arr, sizeof(arr) / sizeof(arr[0]));
+    //PrintAll();
+}
+
+void BuildTree(int* _pArr, int _len) {
+
+    if (_pArr == NULL ||  _len < 1) return;
+    int centerIdx = _len >> 1;
+
+    // if(g_pHead == NULL;) return;
+    g_pHead = (SNode*)malloc(sizeof(SNode));
+    g_pHead->data = _pArr[centerIdx];
+    g_pHead->pLeft = NULL;
+    g_pHead->pRight = NULL;
+
+    for (int i = 0; i < _len; ++i) {
+        if (i == centerIdx) continue;
+
+        SNode* pNewNode = (SNode*)malloc(sizeof(SNode));
+        pNewNode->data = _pArr[i];
+        pNewNode->pLeft = NULL;
+        pNewNode->pRight = NULL;
+        AddNode(g_pHead, pNewNode);
+    }
+}
+
+void AddNode(SNode* _pCompareNode, SNode* _pNewNode) {
+    if (_pCompareNode == NULL || _pNewNode == NULL) return;
+    printf("Node is NULL!\n");
+    if (_pNewNode->data < _pCompareNode->data) {
+        if (_pCompareNode->pLeft == NULL) {
+            _pCompareNode->pLeft = _pNewNode;
+            printf("Add Left: %d\n", _pNewNode->data);
+            return;
+        }
+        else {
+            printf("Move Left: %d -> %d\n", _pCompareNode->data, _pNewNode->data);
+            AddNode(_pCompareNode->pLeft, _pNewNode);
+
+        }
+    }
+    else {
+        if (_pCompareNode->pRight == NULL) {
+            _pCompareNode->pRight = _pNewNode;
+            printf("Add Right: %d\n", _pNewNode->data);
+            return;
+
+        }
+        else {
+            printf("Move Right: %d -> %d", _pCompareNode->data, _pNewNode->data);
+            AddNode(_pCompareNode->pRight, _pNewNode);
+        }
+    }
+}
