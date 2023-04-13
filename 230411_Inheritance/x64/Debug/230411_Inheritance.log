@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230411_Inheritance\main.cpp(48,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  230411_Inheritance.vcxproj -> C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230411_Inheritance\x64\Debug\230411_Inheritance.exe

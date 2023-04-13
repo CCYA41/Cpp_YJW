@@ -1,0 +1,7 @@
+﻿  230323_Extra.c
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\230323_Extra.c(37,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\230323_Extra.c(57,15): warning C4047: '함수': 'char **'의 간접 참조 수준이 'char ***'과(와) 다릅니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\230323_Extra.c(57,9): warning C4024: 'StrCpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\230323_Extra.c(60,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\230323_Extra.c(63,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  230323_Extra.vcxproj -> C:\Users\y1j2w\Documents\GitHub\Cpp_YJW\230323_Extra\x64\Debug\230323_Extra.exe
