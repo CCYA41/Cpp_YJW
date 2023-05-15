@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeProject1 (8)" GUID="{f746ad8e-bfe8-4f2c-a8c2-265a4fcdc32e}" BaseGUID="{99bd77a9-f1ed-474b-80e3-247eabb051b9}">
+  <Theme Name="VSThemeProject1 (10)" GUID="{4b7d3e67-59d9-40ca-b69b-bbc70c999528}" BaseGUID="{f746ad8e-bfe8-4f2c-a8c2-265a4fcdc32e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
